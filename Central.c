@@ -6,6 +6,7 @@
 #include "insertion_sort.c"
 #include "merge_sort.c"
 #include "selection_sort.c"
+#include "quick_sort.c"
 
 
 int main()
@@ -24,5 +25,8 @@ int main()
     printf("\n");
     printf("Selection:");
     rs();
+    printf("\n");
+    printf("Quick:");
+    rq();
     printf("\n");
 }
