@@ -26,7 +26,12 @@ int main()
     printf("Selection:");
     rs();
     printf("\n");
-    printf("Quick:");
+    printf("Quick (Last Pivot):");
     rq();
     printf("\n");
+    printf("Quick (Middle Pivot):");
+    rqm();
+    printf("\n");
+
+
 }
