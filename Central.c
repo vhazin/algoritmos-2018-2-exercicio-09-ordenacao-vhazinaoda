@@ -27,10 +27,10 @@ int main()
     rs();
     printf("\n");
     printf("Quick (Last Pivot):");
-    rq();
+    rq(1);
     printf("\n");
     printf("Quick (Middle Pivot):");
-    rqm();
+    rqm(0);
     printf("\n");
 
 
