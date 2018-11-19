@@ -30,7 +30,7 @@ int main()
     rq(1);
     printf("\n");
     printf("Quick (Middle Pivot):");
-    rqm(0);
+    rq(0);
     printf("\n");
 
 
